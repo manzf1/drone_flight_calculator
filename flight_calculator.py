@@ -1,0 +1,1 @@
+"""Drone flight-time calculator module."""
